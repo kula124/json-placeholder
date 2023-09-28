@@ -48,8 +48,7 @@
       "In a bowl, mix eggs, grated Pecorino Romano cheese, and black pepper.",
       "Combine cooked spaghetti and pancetta, then mix in the egg mixture.",
       "Serve immediately with extra cheese and pepper."
-    ],
-    "image": "spaghetti_carbonara.jpg"
+    ]
   },
   {
     "id": 2,
@@ -61,8 +60,7 @@
       "In a saucepan, heat Alfredo sauce until warm.",
       "Slice grilled chicken and add it to the sauce.",
       "Serve the creamy chicken Alfredo over cooked pasta."
-    ],
-    "image": "chicken_alfredo.jpg"
+    ]
   },
   {
     "id": 3,
@@ -73,8 +71,7 @@
       "Warm tortillas in the oven or on a griddle.",
       "Assemble tacos with beef, lettuce, cheese, and salsa.",
       "Serve hot and enjoy your beef tacos!"
-    ],
-    "image": "beef_tacos.jpg"
+    ]
   },
   {
     "id": 4,
@@ -84,8 +81,7 @@
       "Wash and chop romaine lettuce.",
       "Toss with croutons, grated Parmesan cheese, and Caesar dressing.",
       "Optional: Add grilled chicken for a Caesar Chicken Salad."
-    ],
-    "image": "caesar_salad.jpg"
+    ]
   },
   {
     "id": 5,
@@ -96,8 +92,7 @@
       "Stir-fry vegetables and protein until cooked.",
       "Add stir-fry sauce and cook briefly.",
       "Serve over cooked rice or noodles."
-    ],
-    "image": "vegetable_stir_fry.jpg"
+    ]
   },
   {
     "id": 6,
@@ -111,8 +106,7 @@
       "Stir in chocolate chips.",
       "Drop dough by rounded tablespoons onto ungreased cookie sheets.",
       "Bake for 10 to 12 minutes until the edges are golden."
-    ],
-    "image": "chocolate_chip_cookies.jpg"
+    ]
   },
   {
     "id": 7,
@@ -125,8 +119,7 @@
       "Sprinkle mozzarella cheese over the sauce.",
       "Bake in the hot oven until the crust is golden and the cheese is bubbly.",
       "Top with fresh basil leaves and a drizzle of olive oil."
-    ],
-    "image": "margarita_pizza.jpg"
+    ]
   },
   {
     "id": 8,
@@ -138,8 +131,7 @@
       "Remove chicken, shred it, and return it to the pot.",
       "Add cooked noodles and simmer until heated through.",
       "Serve hot for a comforting bowl of chicken noodle soup."
-    ],
-    "image": "chicken_noodle_soup.jpg"
+    ]
   },
   {
     "id": 9,
@@ -149,8 +141,7 @@
       "Chop cucumbers, tomatoes, and red onions.",
       "Combine with Kalamata olives and crumbled feta cheese.",
       "Toss with Greek dressing and serve."
-    ],
-    "image": "greek_salad.jpg"
+    ]
   },
   {
     "id": 10,
@@ -163,8 +154,7 @@
       "Add fish, vegetables, and other desired fillings.",
       "Roll up the sushi using the bamboo mat.",
       "Slice into bite-sized pieces and serve with soy sauce and wasabi."
-    ],
-    "image": "sushi_rolls.jpg"
+    ]
   },
   {
     "id": 11,
@@ -177,8 +167,7 @@
       "Heat a griddle or skillet and pour batter to make pancakes.",
       "Cook until bubbles form, then flip and cook until golden brown.",
       "Serve with maple syrup and butter."
-    ],
-    "image": "pancakes.jpg"
+    ]
   },
   {
     "id": 12,
@@ -190,8 +179,7 @@
       "Drizzle with balsamic glaze.",
       "Season with salt and pepper.",
       "A delightful Caprese salad is ready to serve."
-    ],
-    "image": "caprese_salad.jpg"
+    ]
   },
   {
     "id": 13,
@@ -203,8 +191,7 @@
       "Stir in flour, then add beef broth and sour cream.",
       "Simmer until the sauce thickens and beef is tender.",
       "Serve over cooked egg noodles."
-    ],
-    "image": "beef_stroganoff.jpg"
+    ]
   },
   {
     "id": 14,
@@ -214,8 +201,7 @@
       "Wash and chop romaine lettuce.",
       "Toss with croutons, grated Parmesan cheese, and Caesar dressing.",
       "Optional: Add grilled chicken for a Caesar Chicken Salad."
-    ],
-    "image": "caesar_salad.jpg"
+    ]
   },
   {
     "id": 15,
@@ -227,67 +213,8 @@
       "Repeat the layers.",
       "Bake until bubbly and cheese is melted.",
       "Let it rest before slicing and serving."
-    ],
-    "image": "lasagna.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Fruit Salad",
-    "description": "A refreshing salad with assorted fruits and a citrusy dressing.",
-    "steps": [
-      "Dice a variety of fresh fruits like strawberries, kiwi, melon, and grapes.",
-      "Prepare a dressing with orange juice and honey.",
-      "Toss the fruits in the dressing and chill before serving."
-    ],
-    "image": "fruit_salad.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Beef Burritos",
-    "description": "Flour tortillas filled with seasoned beef, beans, rice, and toppings.",
-    "steps": [
-      "Brown ground beef and season with taco seasoning.",
-      "Warm flour tortillas and assemble burritos with beef, beans, rice, and desired toppings.",
-      "Fold the tortillas and serve your beef burritos."
-    ],
-    "image": "beef_burritos.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Chicken Parmesan",
-    "description": "Breaded chicken cutlets topped with marinara sauce and melted mozzarella cheese.",
-    "steps": [
-      "Bread chicken cutlets with breadcrumbs and Parmesan cheese.",
-      "Fry or bake the chicken until cooked through and crispy.",
-      "Top with marinara sauce and mozzarella cheese, then bake until cheese is melted and bubbly.",
-      "Serve over cooked spaghetti."
-    ],
-    "image": "chicken_parmesan.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Shrimp Scampi",
-    "description": "Juicy shrimp cooked in garlic butter sauce, served over linguine pasta.",
-    "steps": [
-      "Cook linguine pasta until al dente.",
-      "Sauté shrimp in garlic butter until pink and cooked through.",
-      "Toss cooked pasta with shrimp and drizzle with lemon juice.",
-      "Garnish with chopped parsley and grated Parmesan cheese."
-    ],
-    "image": "shrimp_scampi.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Mushroom Risotto",
-    "description": "Creamy risotto with mushrooms, onions, white wine, and Parmesan cheese.",
-    "steps": [
-      "Sauté mushrooms and onions in butter until tender.",
-      "Add Arborio rice and cook until translucent.",
-      "Deglaze with white wine and cook until absorbed.",
-      "Add hot chicken broth one ladle at a time, stirring until absorbed before adding more.",
-      "Finish with grated Parmesan cheese and serve creamy mushroom risotto."
-    ],
-    "image": "mushroom_risotto.jpg"
+    ]
   }
 ]
+
 }
