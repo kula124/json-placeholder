@@ -36,5 +36,258 @@
          "title":"CSS is awsome (if you know it)",
          "body":"Hi there! My name is Kevin and I'm a CSS Evangelist. I absolutely love CSS, and I want to help new front-end devs enjoy learning it, and help seasoned vets see how great it really is.Most of my content is over on YouTube, but I also stream on Twitch, and write articles every now and then as well, not to mention my courses."
       }
-   ]
+   ],
+   "recipes": [
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "steps": [
+      "Boil spaghetti in salted water until al dente.",
+      "In a separate pan, cook pancetta until crispy.",
+      "In a bowl, mix eggs, grated Pecorino Romano cheese, and black pepper.",
+      "Combine cooked spaghetti and pancetta, then mix in the egg mixture.",
+      "Serve immediately with extra cheese and pepper."
+    ],
+    "image": "spaghetti_carbonara.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Alfredo",
+    "description": "Creamy pasta dish with grilled chicken, Alfredo sauce, and fettuccine.",
+    "steps": [
+      "Cook fettuccine pasta until tender.",
+      "Season chicken breast and grill until cooked through.",
+      "In a saucepan, heat Alfredo sauce until warm.",
+      "Slice grilled chicken and add it to the sauce.",
+      "Serve the creamy chicken Alfredo over cooked pasta."
+    ],
+    "image": "chicken_alfredo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Beef Tacos",
+    "description": "Tasty tacos filled with seasoned ground beef, lettuce, cheese, and salsa.",
+    "steps": [
+      "Brown ground beef in a skillet, seasoning with taco seasoning.",
+      "Warm tortillas in the oven or on a griddle.",
+      "Assemble tacos with beef, lettuce, cheese, and salsa.",
+      "Serve hot and enjoy your beef tacos!"
+    ],
+    "image": "beef_tacos.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Caesar Salad",
+    "description": "A classic salad with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+    "steps": [
+      "Wash and chop romaine lettuce.",
+      "Toss with croutons, grated Parmesan cheese, and Caesar dressing.",
+      "Optional: Add grilled chicken for a Caesar Chicken Salad."
+    ],
+    "image": "caesar_salad.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Stir-Fry",
+    "description": "A quick and healthy stir-fry with mixed vegetables and your choice of protein.",
+    "steps": [
+      "Heat oil in a wok or large skillet.",
+      "Stir-fry vegetables and protein until cooked.",
+      "Add stir-fry sauce and cook briefly.",
+      "Serve over cooked rice or noodles."
+    ],
+    "image": "vegetable_stir_fry.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Chip Cookies",
+    "description": "Homemade chocolate chip cookies with a soft and chewy center.",
+    "steps": [
+      "Preheat the oven to 350°F (175°C).",
+      "Cream together butter, sugar, and brown sugar until smooth.",
+      "Beat in eggs one at a time, then stir in vanilla.",
+      "Combine flour, baking soda, and salt; gradually add to the butter mixture.",
+      "Stir in chocolate chips.",
+      "Drop dough by rounded tablespoons onto ungreased cookie sheets.",
+      "Bake for 10 to 12 minutes until the edges are golden."
+    ],
+    "image": "chocolate_chip_cookies.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Margarita Pizza",
+    "description": "A simple and delicious pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+    "steps": [
+      "Preheat your oven to its highest setting.",
+      "Roll out pizza dough into a circle or rectangle.",
+      "Spread tomato sauce over the dough, leaving a border for the crust.",
+      "Sprinkle mozzarella cheese over the sauce.",
+      "Bake in the hot oven until the crust is golden and the cheese is bubbly.",
+      "Top with fresh basil leaves and a drizzle of olive oil."
+    ],
+    "image": "margarita_pizza.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Noodle Soup",
+    "description": "Comforting soup with chicken, vegetables, and noodles.",
+    "steps": [
+      "In a large pot, sauté onions, carrots, and celery until tender.",
+      "Add chicken, broth, and seasonings. Simmer until chicken is cooked.",
+      "Remove chicken, shred it, and return it to the pot.",
+      "Add cooked noodles and simmer until heated through.",
+      "Serve hot for a comforting bowl of chicken noodle soup."
+    ],
+    "image": "chicken_noodle_soup.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Greek Salad",
+    "description": "A refreshing salad with cucumbers, tomatoes, olives, feta cheese, and Greek dressing.",
+    "steps": [
+      "Chop cucumbers, tomatoes, and red onions.",
+      "Combine with Kalamata olives and crumbled feta cheese.",
+      "Toss with Greek dressing and serve."
+    ],
+    "image": "greek_salad.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sushi Rolls",
+    "description": "Homemade sushi rolls with rice, seaweed, fish, and vegetables.",
+    "steps": [
+      "Prepare sushi rice and cool it.",
+      "Lay out a sheet of seaweed on a bamboo sushi mat.",
+      "Spread a layer of rice on the seaweed, leaving a border.",
+      "Add fish, vegetables, and other desired fillings.",
+      "Roll up the sushi using the bamboo mat.",
+      "Slice into bite-sized pieces and serve with soy sauce and wasabi."
+    ],
+    "image": "sushi_rolls.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pancakes",
+    "description": "Fluffy pancakes served with maple syrup and butter.",
+    "steps": [
+      "In a mixing bowl, whisk together flour, sugar, baking powder, and salt.",
+      "In another bowl, whisk together eggs, milk, and melted butter.",
+      "Combine wet and dry ingredients until just mixed.",
+      "Heat a griddle or skillet and pour batter to make pancakes.",
+      "Cook until bubbles form, then flip and cook until golden brown.",
+      "Serve with maple syrup and butter."
+    ],
+    "image": "pancakes.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Caprese Salad",
+    "description": "A simple salad with tomatoes, mozzarella cheese, fresh basil, and balsamic glaze.",
+    "steps": [
+      "Slice tomatoes and mozzarella cheese.",
+      "Arrange them on a plate with fresh basil leaves.",
+      "Drizzle with balsamic glaze.",
+      "Season with salt and pepper.",
+      "A delightful Caprese salad is ready to serve."
+    ],
+    "image": "caprese_salad.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Beef Stroganoff",
+    "description": "A hearty dish with tender strips of beef in a creamy mushroom sauce, served over egg noodles.",
+    "steps": [
+      "Sauté onions and mushrooms until tender.",
+      "Add strips of beef and cook until browned.",
+      "Stir in flour, then add beef broth and sour cream.",
+      "Simmer until the sauce thickens and beef is tender.",
+      "Serve over cooked egg noodles."
+    ],
+    "image": "beef_stroganoff.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Cesar Salad",
+    "description": "A classic salad with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+    "steps": [
+      "Wash and chop romaine lettuce.",
+      "Toss with croutons, grated Parmesan cheese, and Caesar dressing.",
+      "Optional: Add grilled chicken for a Caesar Chicken Salad."
+    ],
+    "image": "caesar_salad.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Homemade Lasagna",
+    "description": "Layers of pasta, ricotta cheese, marinara sauce, ground beef, and mozzarella cheese.",
+    "steps": [
+      "Cook lasagna noodles until al dente.",
+      "Layer noodles with ricotta cheese, marinara sauce, ground beef, and mozzarella cheese.",
+      "Repeat the layers.",
+      "Bake until bubbly and cheese is melted.",
+      "Let it rest before slicing and serving."
+    ],
+    "image": "lasagna.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Fruit Salad",
+    "description": "A refreshing salad with assorted fruits and a citrusy dressing.",
+    "steps": [
+      "Dice a variety of fresh fruits like strawberries, kiwi, melon, and grapes.",
+      "Prepare a dressing with orange juice and honey.",
+      "Toss the fruits in the dressing and chill before serving."
+    ],
+    "image": "fruit_salad.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Beef Burritos",
+    "description": "Flour tortillas filled with seasoned beef, beans, rice, and toppings.",
+    "steps": [
+      "Brown ground beef and season with taco seasoning.",
+      "Warm flour tortillas and assemble burritos with beef, beans, rice, and desired toppings.",
+      "Fold the tortillas and serve your beef burritos."
+    ],
+    "image": "beef_burritos.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Chicken Parmesan",
+    "description": "Breaded chicken cutlets topped with marinara sauce and melted mozzarella cheese.",
+    "steps": [
+      "Bread chicken cutlets with breadcrumbs and Parmesan cheese.",
+      "Fry or bake the chicken until cooked through and crispy.",
+      "Top with marinara sauce and mozzarella cheese, then bake until cheese is melted and bubbly.",
+      "Serve over cooked spaghetti."
+    ],
+    "image": "chicken_parmesan.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Shrimp Scampi",
+    "description": "Juicy shrimp cooked in garlic butter sauce, served over linguine pasta.",
+    "steps": [
+      "Cook linguine pasta until al dente.",
+      "Sauté shrimp in garlic butter until pink and cooked through.",
+      "Toss cooked pasta with shrimp and drizzle with lemon juice.",
+      "Garnish with chopped parsley and grated Parmesan cheese."
+    ],
+    "image": "shrimp_scampi.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Mushroom Risotto",
+    "description": "Creamy risotto with mushrooms, onions, white wine, and Parmesan cheese.",
+    "steps": [
+      "Sauté mushrooms and onions in butter until tender.",
+      "Add Arborio rice and cook until translucent.",
+      "Deglaze with white wine and cook until absorbed.",
+      "Add hot chicken broth one ladle at a time, stirring until absorbed before adding more.",
+      "Finish with grated Parmesan cheese and serve creamy mushroom risotto."
+    ],
+    "image": "mushroom_risotto.jpg"
+  }
+]
 }
